@@ -1,0 +1,2200 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: pt_PT\n"
+
+#: includes/sidebar.html:104
+#: includes/sidebar.html:72
+msgid "( {{item.m}}-of-{{item.n}} )"
+msgstr "( {{item.m}}-de-{{item.n}} )"
+
+#: authConfirmation.html:9
+msgid "(The site won't see your balance and no money will be spent)"
+msgstr "(O site não verá seu saldo e nenhum valor será gasto)"
+
+#: walletHome.html:388
+msgid "(possible double spend)"
+msgstr "(possibilidade de gasto duplo)"
+
+#: airDrop.js:452
+#: sendAssets.js:281
+#: walletHome.js:980
+msgid ". It needs atleast"
+msgstr "Precisa de ao menos"
+
+#: disclaimer.html:62
+msgid "<b>IF YOU LOSE ACCESS TO YOUR TRUSTNOTE WALLET, YOU ACKNOWLEDGE AND AGREE THAT ANY NOTES OR OTHER VALUABLES YOU HAVE ASSOCIATED WITH THAT TRUSTNOTE WALLET WILL BECOME INACCESSIBLE.</b>"
+msgstr "<b>SE VOCÊ PERDER O ACESSO A SUA CARTEIRA TRUSTNOTE, VOCÊ RECONHECE QUE QUALQUER NOTE OU QUAISQUER OUTROS VALORES QUE TEM ASSOCIADOS COM SUA CARTEIRA TRUSTNOTE SERÃO INACESSÍVEIS.</b>"
+
+#: preferencesDeleteWallet.html:20
+msgid "<i class=\" icon-waring size-100\"></i>"
+msgstr "<i class=\" icon-waring size-100\"></i>"
+
+#: modals/scanner.html:11
+msgid "<span class=\"size-17 colorfff\" translate=\"\">QR-Scanner</span>"
+msgstr "<span class=\"size-17 colorfff\" translate=\"\">QR-Scanner</span>"
+
+#: preferencesGlobal.html:116
+msgid "About TrustNote"
+msgstr "Sobre a TrustNote"
+
+#: confirmDialog.js:8
+#: copayers.js:8
+#: preferencesDelete.js:10
+#: walletHome.js:151
+msgid "Accept"
+msgstr "Aceitar"
+
+#: acceptCorrespondentInvitation.html:19
+msgid "Accept invitation"
+msgstr "Aceitar convite"
+
+#: addCorrespondentDevice.html:20
+msgid "Accept invitation from the other device"
+msgstr "Aceitar convite de outro dispositivo"
+
+#: bot.html:35
+msgid "Add Services"
+msgstr "Adicionar Serviços"
+
+#: modals/destination-address.html:129
+#: modals/destination-address.html:140
+msgid "Add a new entry"
+msgstr "Adicionar uma nova entrada"
+
+#: correspondentDevices.html:201
+msgid "Added"
+msgstr "Adicionada"
+
+#: modals/customized-amount.html:38
+#: modals/destination-address.html:161
+#: modals/destination-address.html:24
+#: paymentUri.html:12
+msgid "Address"
+msgstr "Endereço"
+
+#: modals/destination-address.html:60
+msgid "Addressbook"
+msgstr "Lista de Endereços"
+
+#: preferences.html:91
+msgid "Advanced"
+msgstr "Avançado"
+
+#: disclaimer.html:75
+msgid "Agree"
+msgstr "Concordo"
+
+#: preferencesAlias.html:13
+msgid "Alias for <span>{{index.walletName}}</span>"
+msgstr "Pseudônimo para <span>{{index.walletName}}</span>"
+
+#: translators.html:56
+msgid "All contributions to TrustNote's translation are welcome. Sign up at crowdin.com and join the TrustNote project at"
+msgstr "Todas as contribuições para tradução da TrustNote são bem-vindas. Cadastre-se em crowdin.com e junte-se ao projeto TrustNote em"
+
+#: modals/multi-payment.html:65
+msgid "Already Paid"
+msgstr "Já foi Pago"
+
+#: includes/airDrop.html:200
+msgid "Already generated"
+msgstr "Já foi gerada"
+
+#: walletHome.html:259
+#: walletHome.html:268
+msgid "Also"
+msgstr "Também"
+
+#: includes/output.html:9
+#: includes/toPay.html:74
+#: modals/customized-amount.html:45
+#: modals/customized-amount.html:71
+#: modals/customized-amount.html:82
+#: modals/select-subwallet.html:110
+#: paymentUri.html:13
+#: walletHome.html:119
+#: walletHome.html:575
+msgid "Amount"
+msgstr "Quantia"
+
+#: includes/airDrop.html:152
+msgid "Amount each"
+msgstr "Quantia de cada"
+
+#: modals/vote.html:22
+msgid "Answer:"
+msgstr "Resposta:"
+
+#: copayers.html:39
+msgid "Approve wallet creation on other devices"
+msgstr "Aprovar criação de carteira em outro dispositivo"
+
+#: includes/backupWaring.html:708
+msgid "Are you sure you want to delete the Seed Phrase?"
+msgstr "Você tem certeza que quer deletar a Frase Seed?"
+
+#: backup.js:5
+msgid "Are you sure you want to delete the backup words?"
+msgstr "Você tem certeza que quer deletar as palavras de backup?"
+
+#: copayers.js:7
+#: preferencesDelete.js:9
+msgid "Are you sure you want to delete this wallet?"
+msgstr "Você tem certeza que quer deletar esta carteira?"
+
+#: sendAssets.js:119
+msgid "Asset does not exist"
+msgstr "O ativo não existe"
+
+#: includes/askColdwalletQrcode.html:66
+#: includes/toPay.html:84
+msgid "Authorized"
+msgstr "Autorizado"
+
+#: includes/airDrop.html:119
+#: includes/available-balance.html:8
+#: walletHome.html:472
+#: walletHome.html:486
+msgid "Available Balance"
+msgstr "Saldo disponível"
+
+#: acceptCorrespondentInvitation.html:9
+#: bot.html:10
+#: correspondentDevice.html:14
+#: correspondentDevices.html:66
+#: editCorrespondentDevice.html:12
+#: includes/backupWaring.html:136
+#: includes/backupWaring.html:141
+#: includes/backupWaring.html:432
+#: includes/topbar.html:15
+#: modals/correspondentListToReSendPrivPayloads.html:6
+#: modals/destination-address.html:15
+#: modals/tx-details.html:8
+#: preferencesCold.html:51
+msgid "Back"
+msgstr "Voltar"
+
+#: includes/backupWaring.html:443
+#: includes/backupWaring.html:472
+#: includes/backupWaring.html:706
+msgid "Backup Your Seed Phrase"
+msgstr "Fazer Backup da Frase Seed"
+
+#: preferencesGlobal.html:80
+msgid "Backup wallet seed"
+msgstr "Seed de backup da carteira"
+
+#: backup.js:6
+#: recoveryFromSeed.js:25
+#: recoveryFromSeeddir.js:26
+msgid "Backup words deleted"
+msgstr "Fazer backup das palavras deletadas"
+
+#: preferencesInformation.html:51
+msgid "Balance By Address"
+msgstr "Saldo por Endereço"
+
+#: preferencesGlobal.html:12
+msgid "Basic Settings"
+msgstr "Configurações Básicas"
+
+#: modals/bind.html:8
+#: modals/bind.html:99
+msgid "Bind payment"
+msgstr "Vincular pagamento"
+
+#: paymentUri.html:7
+msgid "Bitcoin URI is NOT valid!"
+msgstr "URI Bitcoin NÃO é valido"
+
+#: unsupported.html:7
+msgid "Browser unsupported"
+msgstr "Navegador não suportado"
+
+#: includes/password.html:35
+msgid "CANCEL"
+msgstr "CANCELAR"
+
+#: splash.html:99
+msgid "CONTINUE"
+msgstr "CONTINUAR"
+
+#: preferencesDelete.js:76
+msgid "Can't delete the last remaining wallet"
+msgstr "A última carteira restante não pode ser deletada"
+
+#: confirmDialog.js:9
+#: copayers.js:9
+#: includes/login.html:89
+#: includes/sendassets.html:284
+#: modals/confirmation.html:21
+#: modals/destination-address.html:197
+#: preferencesDelete.js:11
+#: walletHome.html:659
+#: walletHome.js:152
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: synchronization.html:35
+msgid "Caution:"
+msgstr "Cuidado:"
+
+#: preferencesAlias.html:27
+msgid "Changing wallet alias only affects the local wallet name."
+msgstr "Mudar o pseudônimo da carteira apenas afeta o nome local da carteira"
+
+#: import.html:31
+msgid "Choose File"
+msgstr "Escolher arquivo"
+
+#: modals/howToSign.html:314
+msgid "Choose one watch wallet that is the same with cold wallet - go to TTT transaction page,input all the transfer information - click “Confirm” button - generate QR code"
+msgstr "Escolha uma carteira que seja a mesma que é a carteira fria - vá para página de transações TTT,coloque todas as informações de transferência - clique no botão “Confirmar” - gerar um código QR"
+
+#: modals/correspondentListToReSendPrivPayloads.html:10
+msgid "Choose the device to send to"
+msgstr "Escolher dispositivo para enviar"
+
+#: modals/howToSign.html:186
+msgid "Choose the wallet you want to be watched, click \"wallet Settings\" - input password - shows the Offline wallet QR code"
+msgstr "Escolha a carteira que você quer que seja acompanhada, clique em \"Configurações da Carteira\" - coloque a senha - mostre o código QR da carteira Offline"
+
+#: synchronization.html:30
+msgid "Click to Sync the Wallets:"
+msgstr "Clique para Sincronizar as Carteiras"
+
+#: modals/howToSign.html:160
+msgid "Click “create wallet” - choose watch wallet - click “scan button” next to the title of the Offline wallet QR code ,scan Offline wallet QR code from step2"
+msgstr "Clique em “Criar uma carteira” - escolha carteira de acompanhamento - clique “botão de escanear” próximo ao título do código QR da carteira Offline do passo 2"
+
+#: modals/howToSign.html:272
+msgid "Click “next”button - click “scan ”button - scan signature detail QR code from cold wallet generated in step4"
+msgstr "Clque no botão “próximo” - clique no botão “escanear ” - escanear código QR de detalhe da assinatura da carteira fria gerada no passo 4"
+
+#: modals/howToSign.html:374
+msgid "Click”next”button - click”scan”button,then scan “Authorized” QR code from cold wallet generate in step2 - sending transaction"
+msgstr "Clique no botão ”próximo” - clique no botão ”escanear”, e então escaneie o código QR “Autorizado” da carteira fria gerada no passo2 -  enviando transação"
+
+#: correspondentDevices.html:69
+#: includes/airDropReceive.html:124
+#: includes/coldQrcode.html:57
+#: includes/login.html:80
+#: includes/toPay.html:61
+#: includes/topbar.html:20
+#: modals/address-definition.html:40
+#: modals/address-definition.html:5
+#: modals/approveNewWitnesses.html:4
+#: modals/bind.html:4
+#: modals/customized-amount.html:8
+#: modals/destination-address.html:10
+#: modals/howToSign.html:132
+#: modals/multi-payment.html:4
+#: modals/offer-contract.html:23
+#: modals/scanner.html:7
+#: modals/select-subwallet.html:79
+#: modals/vote.html:4
+#: preferences.html:12
+#: preferencesRecords.html:121
+#: walletHome.html:106
+msgid "Close"
+msgstr "Fechar"
+
+#: modals/howToSign.html:305
+msgid "Cold wallet transaction signature"
+msgstr "Assinatura de transação de carteira fria"
+
+#: modals/howToSign.html:183
+#: modals/howToSign.html:243
+#: modals/howToSign.html:337
+msgid "Cold wallet:"
+msgstr "Carteira Fria"
+
+#: preferences.html:57
+msgid "Color"
+msgstr "Cor"
+
+#: preferencesAbout.html:19
+msgid "Commit hash"
+msgstr "Hash comprometido"
+
+#: export.html:58
+msgid "Compress the file? (Slower)"
+msgstr "Comprimir o arquivo? (Mais lento)"
+
+#: confirmDialog.js:10
+#: copayers.js:10
+#: index.js:770
+#: preferencesDelete.js:12
+#: walletHome.js:153
+msgid "Confirm"
+msgstr "Confirmar"
+
+#: modals/vote.html:56
+msgid "Confirm Vote"
+msgstr "Confirmar Voto"
+
+#: includes/backupWaring.html:473
+msgid "Confirm Your Mnemonic Words"
+msgstr "Confirmar Suas Palavras Mnemonicas"
+
+#: includes/backupWaring.html:714
+msgid "Confirm delete"
+msgstr "Confirmar exclusão"
+
+#: includes/login.html:85
+msgid "Confirm login to iToken"
+msgstr "Confirmar login em iToken"
+
+#: modals/multi-payment.html:8
+msgid "Confirm payment"
+msgstr "Confirmar pagamento"
+
+#: modals/vote.html:8
+msgid "Confirm vote"
+msgstr "Confirmar voto"
+
+#: modals/tx-details.html:171
+msgid "Confirmed"
+msgstr "Confirmada"
+
+#: correspondentDevices.html:90
+msgid "Contacts"
+msgstr "Contatos"
+
+#: loginControl.js:20
+msgid "Contract wallet cannot be logged in"
+msgstr "Não pode der feito login na carteira de contrato"
+
+#: sendAssets.js:107
+msgid "Contract wallet cannot be paid"
+msgstr "Carteira de contrato não pode ser paga"
+
+#: includes/qrcode.html:57
+#: preferencesRecords.html:154
+msgid "Copied"
+msgstr "Copiado"
+
+#: inviteCorrespondentDevice.js:32
+#: preferencesCold.html:76
+#: qrcode.js:75
+#: walletHome.js:422
+msgid "Copied to clipboard"
+msgstr "Copiado para área de transferência"
+
+#: preferencesRecords.html:122
+msgid "Copy all"
+msgstr "Copiar tudo"
+
+#: preferencesCold.html:74
+msgid "Copy offline wallet QR code"
+msgstr "Copiar código QR da carteira offline"
+
+#: airDrop.js:542
+#: walletHome.js:637
+msgid "Could not create payment proposal"
+msgstr "Não pode ser criada a proposta de pagamento"
+
+#: profileService.js:247
+msgid "Could not create using the specified extended private key"
+msgstr "Não pode ser criada usando a chave privada estendida especificada"
+
+#: profileService.js:257
+msgid "Could not create using the specified extended public key"
+msgstr "Não pode ser criada usando a chave pública estendida especificada"
+
+#: profileService.js:240
+msgid "Could not create: Invalid wallet seed"
+msgstr "Nao pode ser criada: Seed de carteira inválida"
+
+#: backup.js:521
+msgid "Could not decrypt"
+msgstr "Não pode ser descriptografada"
+
+#: walletHome.html:312
+msgid "Could not fetch transaction history"
+msgstr "Não pôde buscar o histórico de transações"
+
+#: profileService.js:580
+#: profileService.js:608
+#: profileService.js:630
+msgid "Could not import"
+msgstr "Não foi possível importar"
+
+#: profileService.js:557
+msgid "Could not import. Check input file and password"
+msgstr "Não foi possível importar. Verifique o arquivo de entrada e a senha"
+
+#: walletHome.js:81
+msgid "Could not recognize a valid Trustnote QR Code"
+msgstr "Não pode ser reconhecido um código QR Trustnote válido"
+
+#: airDrop.js:542
+#: walletHome.js:637
+msgid "Could not send payment"
+msgstr "Não foi possível enviar pagamento"
+
+#: includes/backupWaring.html:116
+#: includes/backupWaring.html:428
+msgid "Create Wallet"
+msgstr "Criar Carteira"
+
+#: includes/backupWaring.html:436
+msgid "Create Wallet and Backup Your Seed Phrase"
+msgstr "Criar Carteira e Fazer Backup de Sua Frase Seed"
+
+#: add.html:15
+#: create.html:144
+msgid "Create new wallet"
+msgstr "Criar nova carteira"
+
+#: index.js:594
+msgid "Create new wallet  together with  ?"
+msgstr "Criar nova carteira  junto com  ?"
+
+#: modals/address-definition.html:32
+#: modals/select-subwallet.html:115
+msgid "Created:"
+msgstr "Criada"
+
+#: splash.html:134
+msgid "Creating Profile..."
+msgstr "Criando Perfil..."
+
+#: create.html:64
+msgid "Creating Wallet..."
+msgstr "Criando Carteira..."
+
+#: includes/backupWaring.html:686
+msgid "DELETE SEED PHRASE"
+msgstr "DELETAR FRASE SEED"
+
+#: backup.html:75
+msgid "DELETE WORDS"
+msgstr "DELETAR PALAVRAS"
+
+#: modals/tx-details.html:125
+msgid "Date"
+msgstr "Data"
+
+#: index.js:562
+msgid "Declined"
+msgstr "Recusado"
+
+#: paperWallet.html:40
+msgid "Decrypting a paper wallet could take around 5 minutes on this device. please be patient and keep the app open."
+msgstr "Descriptografar uma carteira de papel pode levar cerca de 5 minutos nesse dispositivo. Por favor, seja paciente e mantenha o aplicativo aberto"
+
+#: modals/address-definition.html:10
+msgid "Definition of smart address"
+msgstr "Definição de endereço inteligente"
+
+#: modals/multi-payment.html:25
+msgid "Definitions of addresses"
+msgstr "Definições de endereços"
+
+#: preferencesAdvanced.html:30
+msgid "Delete Wallet"
+msgstr "Deletar Carteira"
+
+#: editCorrespondentDevice.js:29
+msgid "Delete the whole chat history with {{ name }} ?"
+msgstr "Deletar todo o histórico de conversa com {{ name }} ?"
+
+#: preferencesDeleteWallet.html:36
+msgid "Delete wallet"
+msgstr "Deletar carteira"
+
+#: modals/customized-amount.html:35
+#: modals/multi-payment.html:17
+#: modals/tx-details.html:14
+msgid "Details"
+msgstr "Detalhes"
+
+#: preferencesGlobal.html:47
+msgid "Device address"
+msgstr "Endereço do dispositivo"
+
+#: preferencesDeviceName.html:12
+#: preferencesGlobal.html:26
+msgid "Device name"
+msgstr "Nome do dispositivo"
+
+#: preferencesDeviceName.html:22
+msgid "Device name is visible to other devices you communicate with."
+msgstr "O nome do dispositivo é visível para outros dispositivos que você se comunica."
+
+#: backup.html:39
+msgid "Do not use it to clone the wallet."
+msgstr "Não o use para clonar a carteira"
+
+#: includes/backupWaring.html:451
+msgid "Don't Screenshot"
+msgstr "Não capture Screenshots"
+
+#: translators.html:60
+msgid "Don't see your language on Crowdin? Contact the Owner on Crowdin! We'd love to support your language."
+msgstr "Não vê seu idioma no Crowdin? Entre em contato com o proprietário no Crowdin! Adoraríamos suportar seu idioma."
+
+#: inviteCorrespondentDevice.html:77
+#: modals/destination-address.html:38
+msgid "Done"
+msgstr "Pronto"
+
+#: walletHome.html:453
+msgid "Download CSV file"
+msgstr "Fazer Download do Arquivo CSV"
+
+#: splash.html:81
+msgid "Download the entire TrustNote database"
+msgstr "Fazer download de toda a base de dados TrustNote"
+
+#: includes/backupWaring.html:413
+#: recoveryFromSeed.html:324
+msgid "During the recovery, please be patient and do not shut down the software."
+msgstr "Durante a recuperação, por favor,seja paciente e não desligue o software."
+
+#: correspondentDevice.html:35
+#: modals/destination-address.html:34
+msgid "Edit"
+msgstr "Editar"
+
+#: preferencesEmail.html:32
+msgid "Email for wallet notifications"
+msgstr "Email para notificações de carteira"
+
+#: airDrop.js:618
+#: airDrop.js:643
+#: preferencesRecords.html:127
+msgid "Enter T code to redeem your asset at 'TrustNote Wallet/Wallet/Wallet-setting/Redeem T Code'"
+msgstr "Insira seu código T para resgatar seus fundos em 'Carteira TrustNote/carteira/Configurações-carteira/Resgatar Código T'"
+
+#: airDrop.js:36
+msgid "Enter number"
+msgstr "Inserir número"
+
+#: acceptCorrespondentInvitation.html:39
+msgid "Enter the pairing code received from the other device, or use your camera (icon at the upper right corner) to scan the QR code displayed on the other device."
+msgstr "Insira o código de pareamento recebido do outro dispositivo ou use sua câmera (ícone no canto superior direito) para escanear o código QR exibido no outro dispositivo."
+
+#: includes/password.html:14
+msgid "Enter your password"
+msgstr "Insira sua senha"
+
+#: profileService.js:310
+#: profileService.js:369
+#: profileService.js:392
+#: profileService.js:451
+msgid "Error creating wallet"
+msgstr "Erro ao criar carteira"
+
+#: airDropReceive.js:205
+msgid "Error: my wallet address is not found"
+msgstr "Erro: o endereço da minha carteira não foi encontrado"
+
+#: export.html:65
+msgid "Export"
+msgstr "Exportar"
+
+#: export.js:135
+#: export.js:160
+msgid "Export completed successfully"
+msgstr "Exportação completada com sucesso"
+
+#: export.html:17
+msgid "Exporting..."
+msgstr "Exportando..."
+
+#: export.html:24
+msgid "Failed to export"
+msgstr "Falha ao exportar"
+
+#: modals/tx-details.html:134
+msgid "Fee"
+msgstr "Taxa"
+
+#: modals/select-subwallet.html:119
+#: modals/tx-details.html:166
+msgid "Finality"
+msgstr "Finalidade"
+
+#: includes/coldQrcode.html:67
+#: includes/toPay.html:89
+msgid "Finish"
+msgstr "Finalizar"
+
+#: correspondentDevices.html:177
+msgid "Finish editing"
+msgstr "Finalizar edição"
+
+#: includes/airDrop.html:139
+msgid "Fixed Amount Each"
+msgstr "Quantia Fixa Cada"
+
+#: modals/tx-details.html:82
+msgid "From"
+msgstr "De"
+
+#: editCorrespondentDevice.html:30
+msgid "Full address:"
+msgstr "Endereço completo:"
+
+#: paperWallet.html:58
+msgid "Funds found"
+msgstr "Fundos encontrados"
+
+#: paperWallet.html:74
+msgid "Funds will be transferred to"
+msgstr "Os fundos serão transferidos para"
+
+#: airDrop.js:44
+msgid "Generate"
+msgstr "Gerar"
+
+#: qrcode.js:110
+#: walletHome.js:450
+msgid "Generate QR Code"
+msgstr "Gerar Código QR"
+
+#: walletHome.html:196
+msgid "Generating .csv file..."
+msgstr "Gerando arquivo .csv..."
+
+#: walletHome.html:133
+msgid "Generating QR code..."
+msgstr "Gerando código QR..."
+
+#: includes/airDrop.html:197
+msgid "Generating..."
+msgstr "Gerando..."
+
+#: modals/destination-address.html:79
+msgid "Getting address for wallet {{selectedWalletName}} ..."
+msgstr "Criando endereço para carteira {{selectedWalletName}} ..."
+
+#: preferences.html:74
+msgid "Hardware wallet"
+msgstr "Carteira Hardware"
+
+#: backup.html:27
+msgid "Hide the Wallet Seed"
+msgstr "Esconder Seed da Carteira"
+
+#: index.js:932
+msgid "Home"
+msgstr "Iniciar"
+
+#: preferencesTor.html:14
+msgid "Host"
+msgstr "Host"
+
+#: modals/howToSign.html:157
+#: modals/howToSign.html:217
+#: modals/howToSign.html:269
+#: modals/howToSign.html:311
+#: modals/howToSign.html:371
+msgid "Hot wallet:"
+msgstr "Carteira Quente"
+
+#: modals/howToSign.html:133
+msgid "How does offline signing work?"
+msgstr "Como a assinatura offline funciona?"
+
+#: create.html:137
+msgid "How offline signing works?"
+msgstr "Como funciona a assinatura offline"
+
+#: disclaimer.html:74
+msgid "I affirm that I have read, understood, and agree with these terms."
+msgstr "Eu afirmo que li, entendi e concordei com esses termos."
+
+#: modals/offer-contract.html:35
+msgid "I pay"
+msgstr "Eu pago"
+
+#: modals/bind.html:27
+msgid "I receive another payment of"
+msgstr "Eu recebi outro pagamento de"
+
+#: modals/bind.html:84
+msgid "If the condition is not met, I can take this money back after"
+msgstr "Se a condição não for cumprida, eu posso tomar esse dinheiro de volta depois"
+
+#: modals/offer-contract.html:59
+msgid "If the peer doesn't pay, I can take my money back after"
+msgstr "Se a pessoa não pagar, eu posso pegar meu dinheiro de volta depois"
+
+#: import.html:59
+msgid "If you have moved this backup from another device, stop using it on the original one immediately after creating the backup.  Never clone wallets."
+msgstr "Se você moveu esse backup de outro dispositivo, pare de usá-lo no original imediatamente após a criação do backup. Nunca clone carteiras."
+
+#: export.html:74
+msgid "If you plan to restore the wallet on another device, stop using it on the current one immediately after creating the backup.  Never clone wallets."
+msgstr "Se você planeja restaurar a carteira em outro dispositivo, pare de usá-la no atual imediatamente após criar o backup. Nunca clone carteiras."
+
+#: modals/howToSign.html:151
+msgid "If you want to use cold wallet in Trustnote version 1.1.5,you should watch the wallet at first."
+msgstr "Se você quiser usar carteira fria na versão 1.1.5 da Trustnote, você deve acompanhar a carteira antes."
+
+#: import.html:38
+msgid "Import"
+msgstr "Importar"
+
+#: includes/askColdwalletQrcode.html:74
+#: walletHome.html:164
+msgid "Import the signature"
+msgstr "Importar a assinatura"
+
+#: add.html:22
+msgid "Import wallet"
+msgstr "Importar carteira"
+
+#: import.html:18
+msgid "Importing wallet..."
+msgstr "Importando carteira..."
+
+#: disclaimer.html:68
+msgid "In no event shall the authors of the software be held liable for any claim, damages or other liability, whether in an action of contract, tort, or otherwise, arising from, out of or in connection with the software."
+msgstr "Em nenhum caso os autores do software serão responsabilizados por qualquer reclamação, danos ou outra responsabilidade, seja em uma ação de contrato, ato ilícito ou de outra forma, decorrente de fora ou em conexão com o software."
+
+#: walletHome.html:250
+msgid "Including pending confirmation"
+msgstr "Incluindo confirmação pendente"
+
+#: airDropReceive.js:189
+#: airDropReceive.js:55
+msgid "Incorrect T code, please re-enter"
+msgstr "Código T incorreto, por favor insira novamente"
+
+#: walletHome.html:334
+msgid "Initial transaction history synchronization can take some minutes for wallets with many transactions.<br>Please stand by."
+msgstr "A sincronização inicial do histórico de transações pode levar alguns minutos para carteiras com muitas transações.<br>Por favor aguarde."
+
+#: correspondentDevice.html:357
+msgid "Insert my address"
+msgstr "Inserir meu endereço"
+
+#: modals/howToSign.html:143
+msgid "Installed the newest version 1.1.5 and download from trustnote.org"
+msgstr "Instalou a mais nova versão 1.1.5 e fez o download de trustnote.org"
+
+#: walletHome.html:376
+msgid "Invalid"
+msgstr "Inválida"
+
+#: index.js:1976
+msgid "Invalid Touch ID"
+msgstr "Touch ID Inválido"
+
+#: airDrop.js:100
+#: airDrop.js:77
+#: airDrop.js:83
+#: airDrop.js:96
+msgid "Invalid amount"
+msgstr "Quantia inválida"
+
+#: airDrop.js:118
+#: airDrop.js:130
+#: airDrop.js:138
+#: airDrop.js:150
+msgid "Invalid count"
+msgstr "Contagem Inválida"
+
+#: includes/backupWaring.html:675
+msgid "Invalid mnemonic"
+msgstr "Mnemônico Inválido"
+
+#: create.html:130
+msgid "Invalid verification Code"
+msgstr "Código de verificação inválido"
+
+#: inviteCorrespondentDevice.html:63
+msgid "Invite new device"
+msgstr "Convidar novo dispositivo"
+
+#: addCorrespondentDevice.html:12
+msgid "Invite the other device"
+msgstr "Convidar o outro dispositivo"
+
+#: includes/backupWaring.html:711
+msgid "It will delete the seed phrase in the app and can not be restored, please be sure that you have the seed phrase back to a safe place"
+msgstr "Ele irá excluir a frase de seed no aplicativo e ela não poderá ser restaurada, por favor, certifique-se que você tem a frase seed em algum lugar seguro"
+
+#: modals/howToSign.html:409
+msgid "Keep cold wallet offline"
+msgstr "Manter carteira fria offline"
+
+#: splash.html:91
+msgid "Keep only data relevant to you"
+msgstr "Manter apenas arquivos relevantes a você"
+
+#: includes/backupWaring.html:110
+msgid "LIGHT ∙ FAST ∙ SWEET"
+msgstr "LEVE ∙ RÁPIDA ∙ AMIGÁVEL"
+
+#: modals/destination-address.html:176
+msgid "Label"
+msgstr "Identificação"
+
+#: preferencesGlobal.html:35
+msgid "Language"
+msgstr "Idioma"
+
+#: includes/backupWaring.html:677
+msgid "Last step"
+msgstr "Último passo"
+
+#: modals/newVersionIsAvailable.html:68
+msgid "Later"
+msgstr "Mais tarde"
+
+#: modals/howToSign.html:306
+msgid "Let’s use offline signature function to transfer TTT:"
+msgstr "Vamos usar a função de assinatura offline para transferir TTT:"
+
+#: disclaimer.js:16
+#: includes/sendassets.html:274
+msgid "Loading..."
+msgstr "Carregando..."
+
+#: modals/select-subwallet.html:120
+msgid "Locked"
+msgstr "Bloqueada"
+
+#: includes/login.html:87
+msgid "Login"
+msgstr "Login"
+
+#: loginControl.js:110
+msgid "Login error, try later"
+msgstr "Erro de login, tente mais tarde"
+
+#: includes/login.html:99
+msgid "Login successful"
+msgstr "Login bem sucedido"
+
+#: includes/login.html:88
+msgid "Logining"
+msgstr "Fazendo login"
+
+#: paymentUri.html:10
+msgid "Make a payment to"
+msgstr "Fazer um pagamento para"
+
+#: airDrop.js:146
+msgid "Maximum T Code number 100"
+msgstr "Código T Máximo número 100"
+
+#: airDrop.js:126
+msgid "Maximum T Code number 20"
+msgstr "Código T Máximo número 20"
+
+#: modals/approveNewWitnesses.html:29
+msgid "Maybe later"
+msgstr "Talvez mais tarde"
+
+#: includes/copayers.html:5
+#: modals/multi-payment.html:40
+#: modals/offer-contract.html:108
+#: modals/vote.html:33
+#: preferencesInformation.html:128
+msgid "Me"
+msgstr "Eu"
+
+#: includes/sendassets.html:251
+msgid "Memo:"
+msgstr "Memo:"
+
+#: modals/tx-details.html:158
+msgid "Merchant message"
+msgstr "Mensagem do comerciante"
+
+#: includes/airDrop.html:207
+#: walletHome.html:627
+msgid "Merkle proof"
+msgstr "Prova de Merkle"
+
+#: index.js:940
+#: paymentUri.html:14
+msgid "Message"
+msgstr "Mensagem"
+
+#: walletHome.html:369
+msgid "Moved"
+msgstr "Movido"
+
+#: includes/qrcode.html:17
+msgid "My TrustNote address"
+msgstr "Meu endereço TrustNote"
+
+#: modals/destination-address.html:185
+msgid "Name of the contact"
+msgstr "Nome do contato"
+
+#: paymentUri.html:15
+msgid "Network"
+msgstr "Rede"
+
+#: create.js:29
+msgid "New Random Seed"
+msgstr "Nova Seed Aleatória"
+
+#: modals/approveNewWitnesses.html:9
+msgid "New witnesses"
+msgstr "Novas testemunhas"
+
+#: includes/askColdwalletQrcode.html:61
+#: includes/backupWaring.html:438
+#: includes/backupWaring.html:466
+#: splash.html:116
+#: walletHome.html:143
+msgid "Next"
+msgstr "Próximo"
+
+#: authConfirmation.html:25
+#: index.js:769
+msgid "No"
+msgstr "Não"
+
+#: sendAssets.js:286
+#: walletHome.js:985
+msgid "No notes to pay fees"
+msgstr "Sem notes para pagar taxas"
+
+#: password.js:19
+msgid "No password given"
+msgstr "Nenhuma senha dada"
+
+#: walletHome.html:316
+msgid "No transactions yet"
+msgstr "Nenhuma transação ainda"
+
+#: airDrop.js:445
+#: sendAssets.js:274
+#: walletHome.js:973
+msgid "Not enough spendable funds"
+msgstr "Sem fundos suficientes para gastar"
+
+#: modals/customized-amount.html:61
+#: modals/destination-address.html:149
+#: walletHome.html:521
+#: walletHome.html:566
+msgid "Not valid"
+msgstr "Inválido"
+
+#: includes/output.html:15
+#: modals/tx-details.html:113
+#: modals/tx-details.html:153
+#: walletHome.html:408
+#: walletHome.html:642
+msgid "Note"
+msgstr "Aviso"
+
+#: includes/backupWaring.html:410
+#: recoveryFromSeed.html:321
+msgid "Note:"
+msgstr "Aviso:"
+
+#: create.html:118
+msgid "Note: It is not recommended to create watching wallet on your PC or laptop."
+msgstr "Aviso: Não é recomendado criar uma carteira de acompanhamento no seu PC ou notebook."
+
+#: create.html:136
+msgid "Note: Watching Only Wallet needs a offline wallet to help siging. You can use a retired smartphone and enable its aeroplane mode as a offline wallet for the offline signing purpose."
+msgstr "Aviso: Carteiras apenas de Acompanhamento precisam de uma carteira offline para ajudar a entrar. Você pode usar um smartphone desativado e ativar seu modo de avião como uma carteira offline para fins de assinatura offline."
+
+#: includes/airDrop.html:173
+msgid "Number"
+msgstr "Número"
+
+#: includes/alert.html:15
+#: includes/password.html:43
+#: includes/recoveryAlert.html:15
+#: includes/sendassets.html:279
+#: recoveryFromSeedAlert.html:15
+msgid "OK"
+msgstr "OK"
+
+#: create.html:79
+msgid "Observe Wallet"
+msgstr "Observar Carteira"
+
+#: modals/offer-contract.html:27
+msgid "Offer a contract"
+msgstr "Oferecer um contrato"
+
+#: create.html:124
+#: preferences.html:65
+#: preferencesCold.html:58
+#: preferencesCold.html:65
+msgid "Offline wallet verification QR Code"
+msgstr "Código QR de verificação da carteira offline"
+
+#: backup.html:70
+msgid "Once you have written your wallet seed down, it is recommended to delete it from this device."
+msgstr "Depois de ter escrito seu seed da carteira, é recomendável excluí-lo deste dispositivo."
+
+#: modals/howToSign.html:144
+msgid "One of phone open airplane mode as cold wallet,keep it offline always because it's saved your privacy key."
+msgstr "Um dos telefones abertos no modo avião como carteira fria, mantê-lo offline sempre porque salvou sua chave privada nele."
+
+#: bot.html:34
+msgid "Open chat"
+msgstr "Abrir chat"
+
+#: acceptCorrespondentInvitation.html:49
+msgid "Pair"
+msgstr "Parear"
+
+#: acceptCorrespondentInvitation.html:43
+msgid "Pairing code"
+msgstr "Pareando código"
+
+#: paperWallet.html:30
+msgid "Paper Wallet Private Key"
+msgstr "Chave Privada da Carteira de Papel"
+
+#: paperWallet.html:37
+#: paperWallet.html:39
+msgid "Passphrase"
+msgstr "Frase senha"
+
+#: profileService.js:750
+msgid "Password needed"
+msgstr "Senha necessária"
+
+#: password.js:37
+msgid "Passwords do not match"
+msgstr "As senhas não batem"
+
+#: paperWallet.html:31
+msgid "Paste your paper wallet private key here"
+msgstr "Colar a chave privada de sua carteira de papel aqui"
+
+#: modals/offer-contract.html:129
+msgid "Pay and offer"
+msgstr "Pagar e ofertar"
+
+#: modals/tx-status.html:28
+msgid "Payment Accepted"
+msgstr "Pagamento Aceito"
+
+#: modals/tx-status.html:16
+msgid "Payment Proposal Created"
+msgstr "Proposta de Pagamento Criada"
+
+#: walletHome.html:293
+msgid "Payment Proposals"
+msgstr "Propostas de Pagamento"
+
+#: modals/tx-status.html:38
+msgid "Payment Rejected"
+msgstr "Pagamento Rejeitado "
+
+#: modals/tx-status.html:5
+msgid "Payment Sent"
+msgstr "Pagamento Enviado"
+
+#: correspondentListService.js:268
+msgid "Payment to"
+msgstr "Pagamento para"
+
+#: modals/address-definition.html:27
+msgid "Peer:"
+msgstr "Pessoa:"
+
+#: preferencesDeleteWallet.html:34
+msgid "Permanently delete this wallet. THIS ACTION CANNOT BE REVERSED"
+msgstr "Deletar essa carteira permanentemente. ESSA AÇÃO NÃO PODE SER REVESTIDA"
+
+#: create.html:74
+msgid "Plain Wallet"
+msgstr "Carteira Simples"
+
+#: includes/backupWaring.html:453
+msgid "Please backup the mnemonic words"
+msgstr "Por favor, faça o backup de suas palavras mnemônicas"
+
+#: splash.html:76
+msgid "Please choose how much data to store in your wallet"
+msgstr "Por favor, escolha o quanto de dados armazenar em sua carteira"
+
+#: airDropReceive.js:18
+msgid "Please enter T Code"
+msgstr "Por favor, insira o código T"
+
+#: create.js:99
+msgid "Please enter the required fields"
+msgstr "Por favor, insira os campos exigidos"
+
+#: includes/askColdwalletQrcode.html:76
+msgid "Please scan QR code on the offline wallet to import the signature"
+msgstr "Por favor, escaneie o código QR na carteira offline para importar a assinatura"
+
+#: includes/toPay.html:88
+msgid "Please scan signature QR code with your hot wallet"
+msgstr "Por favor, escaneie o código QR de assinatura com sua carteira quente"
+
+#: walletHome.html:165
+msgid "Please scan signature QR code with your offline wallet"
+msgstr "Por favor, escaneie o código QR de assinatura com sua carteira offline"
+
+#: includes/askColdwalletQrcode.html:60
+msgid "Please use the address's offline wallet (the latest version), scan the QR code, waiting until being authorized and then go to the next."
+msgstr "Por favor, use a carteira offline do endereço (a versão mais recente), escaneie o código QR, aguarde até ser autorizado e em seguida, vá para o próximo."
+
+#: includes/backupWaring.html:474
+msgid "Please write the mnemonic words in order and make sure your mnemonic was correct written."
+msgstr "Por favor, escreva as palavras mnemônicas em ordem e certifique-se de que seu mnemônico foi escrito corretamente."
+
+#: preferencesTor.html:17
+msgid "Port"
+msgstr "Porta"
+
+#: preferences.html:19
+msgid "Preferences"
+msgstr "Preferências"
+
+#: backButtonService.js:96
+msgid "Press again to exit"
+msgstr "Pressione de novo para sair"
+
+#: walletHome.html:111
+#: walletHome.html:155
+msgid "Preview the transaction"
+msgstr "Pré-visualizar a transação"
+
+#: walletHome.js:1395
+#: walletHome.js:1469
+msgid "Private payloads sent"
+msgstr "Ativos privados enviados"
+
+#: modals/customized-amount.html:25
+msgid "QR Code"
+msgstr "Código QR"
+
+#: modals/scanner.html:12
+msgid "QR-Scanner"
+msgstr "Escaner QR"
+
+#: includes/airDrop.html:172
+msgid "Quantity"
+msgstr "Quantidade:"
+
+#: modals/vote.html:17
+msgid "Question:"
+msgstr "Pergunta:"
+
+#: modals/howToSign.html:140
+msgid "Ready for work:"
+msgstr "Pronta para funcionar"
+
+#: modals/tx-details.html:33
+#: walletHome.html:348
+msgid "Received"
+msgstr "Recebido"
+
+#: includes/toPay.html:71
+#: walletHome.html:117
+msgid "Receiver"
+msgstr "Destinatário"
+
+#: includes/transaction.html:22
+#: modals/tx-details.html:67
+msgid "Recipients"
+msgstr "Destinatários"
+
+#: walletHome.html:179
+msgid "Reconnecting to Wallet Service..."
+msgstr "Reconectando ao serviço de carteira..."
+
+#: preferencesTcode.html:44
+msgid "Records"
+msgstr "Registros"
+
+#: preferencesRecords.html:164
+msgid "Records of sending T code are not available"
+msgstr "Registros de envio de código T não estão disponíveis"
+
+#: recoveryFromSeed.html:314
+msgid "Recover"
+msgstr "Restaurar"
+
+#: preferencesGlobal.html:92
+msgid "Recovery from seed"
+msgstr "Restauração por seed"
+
+#: walletHome.html:195
+msgid "Recreating Wallet..."
+msgstr "Recriando Carteira..."
+
+#: includes/airDropReceive.html:158
+msgid "Redeem Success"
+msgstr "Sucesso no Resgate"
+
+#: includes/airDropReceive.html:129
+#: preferencesTcode.html:53
+msgid "Redeem T Code"
+msgstr "Resgatar Código T"
+
+#: includes/airDropReceive.html:141
+msgid "Redeem now"
+msgstr "Resgatar agora"
+
+#: includes/airDropReceive.html:156
+msgid "Redeeming..."
+msgstr "Resgatando..."
+
+#: includes/airDropReceive.html:138
+msgid "Reedem T code is a transcation which will incure a small fee"
+msgstr "Resgatar código T é uma transação e isso resultará em uma pequena taxa"
+
+#: index.js:514
+msgid "Refused"
+msgstr "Recusado"
+
+#: preferencesAbout.html:7
+msgid "Release Information"
+msgstr "Liberar Informação"
+
+#: includes/airDropReceive.html:143
+msgid "Reminder: View your T code claims from the first page of your default wallet"
+msgstr "Lembrete: Veja seus resgates de código T pela primeira página de sua carteira padrão"
+
+#: modals/destination-address.html:109
+msgid "Remove"
+msgstr "Remover"
+
+#: correspondentDevices.html:176
+msgid "Remove device"
+msgstr "Remover dispositivo"
+
+#: editCorrespondentDevice.html:38
+msgid "Rename:"
+msgstr "Renomear"
+
+#: export.html:50
+#: includes/password.html:10
+msgid "Repeat password"
+msgstr "Repetir senha"
+
+#: export.html:44
+msgid "Repeat the password"
+msgstr "Repita a senha"
+
+#: modals/approveNewWitnesses.html:23
+msgid "Replace"
+msgstr "Substituir"
+
+#: preferencesGlobal.html:61
+msgid "Request Password"
+msgstr "Solicitar Senha"
+
+#: includes/qrcode.html:95
+#: modals/customized-amount.html:15
+msgid "Request a specific amount"
+msgstr "Solicitar uma quantia determinada"
+
+#: correspondentDevice.html:368
+#: modals/customized-amount.html:96
+msgid "Request payment"
+msgstr "Solicitar pagamento"
+
+#: includes/backupWaring.html:118
+#: includes/backupWaring.html:132
+msgid "Restore Wallet"
+msgstr "Recuperar Carteira"
+
+#: includes/backupWaring.html:397
+msgid "Restore Wallet and Delete Seed Phrase"
+msgstr "Restaurar Carteira e Deletar Frase Seed"
+
+#: includes/backupWaring.html:373
+msgid "Restore Wallet from Seed Phrase"
+msgstr "Restaurar Carteira por Frase Seed"
+
+#: splash.html:122
+msgid "Retrying..."
+msgstr "Tentando novamente..."
+
+#: includes/password.html:42
+msgid "SET"
+msgstr "DEFINIR"
+
+#: editCorrespondentDevice.html:55
+#: modals/destination-address.html:206
+#: preferencesAlias.html:29
+#: preferencesDeviceName.html:28
+#: preferencesEditWitness.html:17
+#: preferencesEmail.html:34
+#: preferencesHub.html:20
+#: preferencesTor.html:21
+msgid "Save"
+msgstr "Salvar"
+
+#: preferencesEmail.html:20
+msgid "Saving preferences..."
+msgstr "Salvando preferências"
+
+#: paperWallet.html:44
+msgid "Scan Wallet Funds"
+msgstr "Escanear Fundos da Carteira"
+
+#: includes/coldQrcode.html:66
+msgid "Scan signature QR code by hot wallet"
+msgstr "Escanear código QR de assinatura pela carteira quente"
+
+#: walletHome.html:230
+msgid "Scan status finished with error"
+msgstr "Statis de escaner finalizado com erros"
+
+#: modals/howToSign.html:340
+msgid "Scan step1’s QR code from hot wallet - click”sign” - input password - generate “Authorized” QR code"
+msgstr "Digitalize o código QR do passo1 a partir da carteira quente - clique em "assinar" - insira a senha - gere o código QR "Autorizado""
+
+#: modals/howToSign.html:220
+msgid "Scan step2’s cold wallet - click“import wallet” - generate QR code for “Authorized signature”"
+msgstr "Assinatura autorizada? "
+
+#: modals/howToSign.html:246
+msgid "Scan step3’s QR wallet - generate “Signature detail” QR code"
+msgstr "Digitalize a carteira QR do passo3 - gere o código QR do "Detalhe de assinatura""
+
+#: walletHome.html:141
+msgid "Scan the QR code with  your offline wallet, then go to the next step when the signature is done"
+msgstr "Digitalize o código QR com a carteira offline e vá para o próximo passo quando a assinatura estiver concluída"
+
+#: inviteCorrespondentDevice.html:71
+msgid "Scan the above QR code using the other device, or send this pairing code to the other device:"
+msgstr "Digitalize o código QR acima usando outro dispositivo ou envie este código de pareamento para o outro dispositivo:"
+
+#: index.js:1969
+msgid "Scan your fingerprint please"
+msgstr "Por favor, escaneie sua impressão digital"
+
+#: walletHome.html:194
+msgid "Scanning Wallet funds..."
+msgstr "Escaneando fundos da Carteira..."
+
+#: includes/backupWaring.html:154
+#: recoveryFromSeed.html:97
+#: synchronization.html:20
+msgid "Scanning for addresses..."
+msgstr "Escaneando para endereços..."
+
+#: paperWallet.html:18
+msgid "Scanning wallet funds..."
+msgstr "Escaneando fundos da carteira..."
+
+#: walletHome.html:687
+msgid "See How does offline signing work?"
+msgstr "Ver Como a assinatura offline funciona?"
+
+#: recoveryFromSeed.js:452
+msgid "Seed is not valid"
+msgstr "Seed não é válida"
+
+#: paymentUri.html:27
+msgid "Select a wallet"
+msgstr "Selecionar uma carteira"
+
+#: modals/select-subwallet.html:85
+msgid "Select subwallet"
+msgstr "Selecionar sub carteira"
+
+#: authConfirmation.html:8
+msgid "Select your identity"
+msgstr "Selecionar sua identidade"
+
+#: includes/transaction.html:12
+#: walletHome.html:663
+#: walletHome.html:673
+msgid "Send"
+msgstr "Enviar"
+
+#: modals/multi-payment.html:62
+msgid "Send Payment"
+msgstr "Enviar Pagamento"
+
+#: includes/sendassets.html:290
+msgid "Send Success"
+msgstr "Sucesso de Envio"
+
+#: preferencesTcode.html:52
+msgid "Send T Code"
+msgstr "Enviar Código T"
+
+#: walletHome.html:576
+msgid "Send all"
+msgstr "Enviar tudo"
+
+#: preferencesLogs.html:14
+msgid "Send by email"
+msgstr "Enviar por email"
+
+#: preferencesTcode.html:48
+msgid "Send or reedem T code is a transcation which will incure a small fee"
+msgstr "Enviar ou resgatar código T é uma transação e irá causar uma pequena taxa"
+
+#: paperWallet.html:19
+msgid "Sending funds..."
+msgstr "Enviando fundos..."
+
+#: includes/sendassets.html:282
+#: walletHome.html:199
+msgid "Sending..."
+msgstr "Enviando..."
+
+#: modals/tx-details.html:37
+#: walletHome.html:355
+msgid "Sent"
+msgstr "Enviado"
+
+#: bot.html:21
+#: correspondentDevices.html:92
+msgid "Services"
+msgstr "Serviços"
+
+#: export.html:32
+msgid "Set up a Password"
+msgstr "Definir uma senha"
+
+#: includes/password.html:9
+msgid "Set up a password"
+msgstr "Definir uma senha"
+
+#: preferencesEmail.html:39
+msgid "Setting up email notifications could weaken your privacy, if the wallet service provider is compromised. Information available to an attacker would include your wallet addresses and its balance, but no more."
+msgstr "A configuração de notificações por email pode afetar sua privacidade se o provedor de serviços de carteira for comprometido. As informações disponíveis para um invasor incluem apenas seus endereços de carteira e seu saldo."
+
+#: modals/select-subwallet.html:107
+msgid "Shared_address:"
+msgstr "Endereço compartilhado:"
+
+#: walletHome.html:430
+msgid "Show all"
+msgstr "Exibir tudo"
+
+#: backup.html:26
+msgid "Show the Wallet Seed Anyway"
+msgstr "Exibir a Seed da Carteira de qualquer maneira"
+
+#: includes/askColdwalletQrcode.html:54
+#: includes/toPay.html:77
+msgid "Sign"
+msgstr "Assinar"
+
+#: index.js:746
+msgid "Sign transaction spending  from wallet ?"
+msgstr "Assinar gastos de transação da carteira ?"
+
+#: includes/coldQrcode.html:59
+#: includes/toPay.html:66
+msgid "Signature detail"
+msgstr "Detalhe de assinatura"
+
+#: airDrop.js:104
+#: airDrop.js:88
+msgid "Single T Code should less than 200"
+msgstr "Um único Código T deve ser inferior a 200"
+
+#: includes/backupWaring.html:695
+#: includes/backupWaring.html:716
+msgid "Skip"
+msgstr "Pular"
+
+#: create.js:32
+msgid "Specify Seed..."
+msgstr "Especificar Seed..."
+
+#: preferencesGlobal.html:57
+msgid "Spending Restrictions"
+msgstr "Restrições de Gasto"
+
+#: create.html:134
+msgid "Start importing"
+msgstr "Iniciar importação"
+
+#: modals/howToSign.html:156
+#: modals/howToSign.html:310
+msgid "Step1"
+msgstr "Passo1"
+
+#: modals/howToSign.html:182
+#: modals/howToSign.html:336
+msgid "Step2"
+msgstr "Passo2"
+
+#: modals/howToSign.html:216
+#: modals/howToSign.html:370
+msgid "Step3"
+msgstr "Passo3"
+
+#: modals/howToSign.html:242
+msgid "Step4"
+msgstr "Passo4"
+
+#: modals/howToSign.html:268
+msgid "Step5"
+msgstr "Passo5"
+
+#: preferencesGlobal.html:74
+msgid "Still not done"
+msgstr "Ainda não esta pronto"
+
+#: copayers.js:78
+#: export.js:135
+#: export.js:160
+#: index.js:551
+#: index.js:579
+#: preferencesDelete.js:60
+#: walletHome.js:1395
+#: walletHome.js:1469
+msgid "Success"
+msgstr "Sucesso"
+
+#: paperWallet.html:64
+msgid "Sweep Wallet"
+msgstr "Limpar Carteira"
+
+#: preferencesGlobal.html:104
+msgid "Sync Cloned Wallets"
+msgstr "Sincronizar Carteiras Clonadas"
+
+#: synchronization.html:31
+msgid "Sync Wallets"
+msgstr "Sincronizar Carteiras"
+
+#: synchronization.js:214
+msgid "Synchronization completed"
+msgstr "Sincronização concluída"
+
+#: walletHome.html:198
+msgid "Syncing... {{index.count_unhandled_private_payments}} private payments left"
+msingstr "Sincronizando... {{index.count_unhandled_private_payments}} pagamentos privados restantes"
+
+#: walletHome.html:197
+msgid "Syncing... {{index.syncProgress}}"
+msgstr "Sincronizando... {{index.syncProgress}}"
+
+#: preferences.html:83
+#: preferencesRecords.html:123
+msgid "T Code"
+msgstr "Código T"
+
+#: preferencesRecords.html:162
+msgid "T Code Log"
+msgstr "Log Código T"
+
+#: airDropReceive.js:118
+msgid "T Code is not stable, please try again later"
+msgstr "O Código T não esta estável, tente novamente mais tarde"
+
+#: profileService.js:304
+msgid "TTT Wallet"
+msgstr "Carteira TTT"
+
+#: walletHome.html:226
+#: walletHome.html:232
+#: walletHome.html:313
+msgid "Tap to retry"
+msgstr "Clique para recarregar"
+
+#: disclaimer.html:52
+#: preferencesAbout.html:25
+msgid "Terms of Use"
+msgstr "Termos de Uso"
+
+#: correspondentDevice.html:380
+msgid "Text message to"
+msgstr "Enviar mensagem para"
+
+#: modals/approveNewWitnesses.html:11
+msgid "The TrustMe URI suggests replacing the following witnesses:"
+msgstr "O URI da TrustMe sugere a substituição das seguintes testemunhas:"
+
+#: disclaimer.html:65
+msgid "The authors of the software cannot retrieve your private keys or passwords if you lose or forget them and cannot guarantee transaction confirmation as they do not have control over the TrustNote network."
+msgstr "Os autores do software não podem recuperar suas chaves privadas ou senhas se você as perder ou esquecer e não puder garantir a confirmação da transação, pois eles não têm controle sobre a rede da TrustNote."
+
+#: modals/bind.html:23
+msgid "The peer receives this payment if"
+msgstr "A pessoa recebe esse pagamento se"
+
+#: disclaimer.html:58
+msgid "The software does not constitute an account where the developer of this software or other third parties serve as financial intermediaries or custodians of your notes or other valuables."
+msgstr "O software não constitui uma conta em que o desenvolvedor deste software ou outros terceiros servem como intermediários financeiros ou custodiantes de seus notes ou outros ativis de valor."
+
+#: disclaimer.html:57
+msgid "The software you are about to use functions as a free, open source, and multi-signature digital wallet."
+msgstr "O software que você está prestes a usar funciona como uma carteira digital gratuita, de código aberto e multi assinatura."
+
+#: modals/vote.html:64
+msgid "The vote will be signed by all your funded addresses"
+msgstr "O voto será assinado por todos os endereços com fundos"
+
+#: copayers.js:78
+#: preferencesDelete.js:60
+msgid "The wallet \"{{walletName}}\" was deleted"
+msgstr "A carteira \"{{walletName}}\" foi deletada"
+
+#: create.html:131
+msgid "The wallet already exists"
+msgstr "A carteira já existe"
+
+#: splash.html:95
+msgid "The wallet vendor will be able to know some of your balances and will be able to see which transactions are yours, but you can start using the wallet immediately and the wallet is fully functional."
+msgstr "O fornecedor da carteira poderá saber alguns dos seus saldos e poderá ver quais transações são suas, mas você pode começar a usar a carteira imediatamente e a carteira é totalmente funcional."
+
+#: paymentUri.html:20
+msgid "There are no wallets to make this payment"
+msgstr "Não há carteiras para fazer esse pagamento"
+
+#: modals/howToSign.html:408
+msgid "There is saved privacy key in cold wallet phone, so keep it safe and complete backup carefully"
+msgstr "Há uma chave privada salva no telefone da carteira fria, portanto, mantenha-a segura e complete o backup com cuidado"
+
+#: splash.html:77
+msgid "This choice cannot be changed later"
+msgstr "Esta escolha não pode ser alterada no futuro"
+
+#: walletHome.html:686
+msgid "This is a Watching Only Wallet which requires a offline wallet holding the Mnemonic phrase to sign the transactions."
+msgstr "Esta é apenas uma Carteira Acompanhamento, que requer uma carteira offline contendo a frase Mnemônica para assinar as transações."
+
+#: walletHome.html:508
+msgid "This is a private asset, please send it only by clicking links in the chat or send it to your other wallets."
+msgstr "Este é um recurso privado, por favor, envie-o apenas clicando em links no chat ou envie-o para suas outras carteiras."
+
+#: splash.html:85
+msgid "This option is better for privacy but will take  several gigabytes of storage and the initial sync will take several days.  CPU load will be high during sync."
+msgstr "Esta opção é melhor para privacidade, mas terá vários gigabytes de armazenamento e a sincronização inicial demorará vários dias. A carga da CPU será alta durante a sincronização."
+
+#: modals/tx-details.html:118
+msgid "This transaction has become invalid; possibly due to a double spend attempt."
+msgstr "Esta transação tornou-se inválida; possivelmente devido a uma tentativa de gasto duplo."
+
+#: import.html:57
+#: recoveryFromSeed.html:323
+#: recoveryFromSeed.js:432
+#: recoveryFromSeeddir.js:85
+msgid "This will permanently delete all your existing wallets!"
+msgstr "Isso irá deletar todas as suas carteiras existentes!"
+
+#: includes/backupWaring.html:454
+msgid "Those 12 mnemonic words are for recovering you wallet, write down correctly on paper and keep in a safe place."
+msgstre "Essas 12 palavras mnemônicas são para recuperar sua carteira, anote-as corretamente em papel e guarde em um local seguro."
+
+#: includes/output.html:5
+#: includes/transaction.html:27
+#: modals/tx-details.html:52
+#: modals/tx-details.html:95
+#: walletHome.html:411
+#: walletHome.html:515
+msgid "To"
+msgstr "Para"
+
+#: disclaimer.html:66
+msgid "To the fullest extent permitted by law, this software is provided “as is” and no representations or warranties can be made of any kind, express or implied, including but not limited to the warranties of merchantability, fitness or a particular purpose and noninfringement."
+msgstr "Até ao limite máximo permitido por lei, este software é fornecido "tal como é" e não podem ser feitas representações ou garantias de qualquer tipo, expressas ou implícitas, incluindo mas não se limitando às garantias de comercialização, adequação ou um determinado fim e não-violação."
+
+#: walletHome.html:297
+msgid "Total Locked Balance"
+msgstr "Saldo Total Bloqueado"
+
+#: includes/airDrop.html:177
+msgid "Total amount"
+msgstr "Quantia total"
+
+#: index.js:936
+msgid "Transaction"
+msgstr "Transação"
+
+#: walletHome.html:340
+msgid "Transactions <br> Downloaded"
+msgstr "Transações <br> Baixadas"
+
+#: translators.html:11
+msgid "Translation Credits"
+msgstr "Créditos de Tradução"
+
+#: preferencesGlobal.html:41
+#: preferencesHub.html:9
+msgid "TrustME URI"
+msgstr "TrustME URI"
+
+#: modals/destination-address.html:169
+msgid "TrustNote address"
+msgstr "Endereço TrustNote"
+
+#: modals/howToSign.html:142
+msgid "Two phones without root or you think it’s safe."
+msgstr "Dois celulares sem root ou que você ache que são seguros"
+
+#: includes/sendassets.html:243
+msgid "Type of Assets:"
+msgstr "Tipos de Ativos"
+
+#: airDrop.js:244
+#: walletHome.js:692
+msgid "Unable to send transaction proposal"
+msgstr "Incapaz de enviar proposta de transação"
+
+#: modals/tx-details.html:168
+#: walletHome.html:362
+#: walletHome.html:396
+msgid "Unconfirmed"
+msgstr "Não confirmada"
+
+#: modals/tx-details.html:141
+msgid "Unit"
+msgstr "Unidade"
+
+#: modals/select-subwallet.html:121
+msgid "Unlocked"
+msgstr "Desbloqueada"
+
+#: walletHome.html:294
+msgid "Unsent transactions"
+msgstr "Transações não enviadas"
+
+#: modals/newVersionIsAvailable.html:69
+msgid "Update"
+msgstr "Atualizar"
+
+#: walletHome.html:193
+msgid "Updating Wallet..."
+msgstr "Atualizando Carteira..."
+
+#: modals/newVersionIsAvailable.html:63
+msgid "Upgrade Prompt"
+msgstr "Atualizar Prompt"
+
+#: includes/upgrading_db.html:8
+msgid "Upgrading the database, please be patient.  Sometimes it takes several minutes."
+msgstr "Atualizando a base de dados, por favor seja paciente. Algumas vezes isso pode levar muitos minutos"
+
+#: preferencesAbout.html:14
+msgid "Version"
+msgstr "Versão"
+
+#: preferencesTcode.html:49
+msgid "View your T code claims from the first page of your default wallet"
+msgstr "Ver seus resgates de código T da primeira página de sua carteira padrão"
+
+#: export.html:72
+msgid "WARNING:"
+msgstr "AVISO:"
+
+#: backup.html:62
+msgid "WARNING: This seed was created with a passphrase. To recover this wallet both the mnemonic and passphrase are needed."
+msgstr "AVISO: Esta seed foi criada com uma frase senha. Para recuperar esta carteira, tanto a mnemônica quanto a frase senha são necessárias."
+
+#: import.html:55
+msgid "WARNINGS:"
+msgstr "AVISOS:"
+
+#: copayers.html:44
+msgid "Waiting for co-signers"
+msgstr "Esperando pelos co-signatários"
+
+#: copayers.html:55
+msgid "Waiting..."
+msgstr "Aguardando..."
+
+#: includes/sidebar.html:26
+#: index.js:945
+#: modals/destination-address.html:55
+#: preferencesDeleteWallet.html:15
+msgid "Wallet"
+msgstr "Carteira"
+
+#: preferences.html:48
+msgid "Wallet Alias"
+msgstr "Pseudônimo da Carteira"
+
+#: preferencesInformation.html:36
+msgid "Wallet Id"
+msgstr "Id da Carteira"
+
+#: preferencesAdvanced.html:13
+#: preferencesInformation.html:16
+msgid "Wallet Information"
+msgstr "Informação de carteira"
+
+#: preferencesInformation.html:19
+msgid "Wallet Name (at creation)"
+msgstr "Nome da Carteira (na criação)"
+
+#: profileService.js:524
+msgid "Wallet already in trustnote:"
+msgstr "A carteira já esta na trustnote:"
+
+#: create.html:97
+msgid "Wallet name"
+msgstr "Nome da carteira"
+
+#: backup.html:17
+msgid "Wallet seed deleted."
+msgstr "Seed de carteira deletada"
+
+#: modals/howToSign.html:150
+msgid "Watch wallet"
+msgstr "Carteira de acompanhamento"
+
+#: modals/howToSign.html:410
+msgid "Watch wallet can’t finish transaction without “offline signature” from cold wallet"
+msgstr "A carteira de acompanhamento não consegue concluir a transação sem a "assinatura offline" da carteira fria"
+
+#: includes/sidebar.html:102
+#: includes/sidebar.html:107
+#: includes/sidebar.html:71
+msgid "Watching"
+msgstr "Acompanhando"
+
+#: create.html:117
+msgid "Watching Only Wallet needs to import verification QR code from the offline wallet in order to check your daily balance and transactions. It's suggested to use offline wallet to manage large amount of crypto-currencies in order to avoid theft or leaks."
+msgstr "Carteiras Apenas de Acompanhamento precisam importar o código QR de verificação da carteira offline para verificar seu saldo diário e as transações. Sugere-se usar a carteira offline para gerenciar grande quantidade de cripto ativos, a fim de evitar roubos ou vazamentos."
+
+#: loginControl.js:29
+msgid "Watching wallet cannot be logged in"
+msgstr "A carteira de acompanhamento não pode estar logada"
+
+#: synchronization.html:37
+msgid "We don’t recommend cloning your Wallet because your Wallet is safe as long as your Seed Phrase is well protected. However, if you experience data inconsistency issue between the original Wallet and its clone, you can fix it by using the “Sync Cloned Wallets” feature on both Wallets."
+msgstr "Não recomendamos clonar sua Carteira, pois ela estará segura, desde que sua Frase Seed esteja bem protegida. No entanto, se você tiver problemas de inconsistência de dados entre a Carteira original e seu clone, você pode corrigi-lo usando o recurso “Sincronizar Carteiras Clonadas” em ambas as Carteiras."
+
+#: includes/backupWaring.html:437
+msgid "We highly recommend you write the Mnemonic words(Backup Phrase) on Paper and keep it in a safe place, anyone get it can access or spend your assets. Also get start with a small amout of assets."
+msgstr "É altamente recomendável que você escreva as palavras mnemônicas (Frase de Backup) em Papel e guarde-as em um local seguro. Qualquer pessoa poderá acessá-las ou gastá-las. Também comece com uma pequena quantidade de ativos."
+
+#: disclaimer.html:69
+msgid "We reserve the right to modify this disclaimer from time to time."
+msgstr "Nós reservamos o direito de modificar este aviso de tempos em tempos."
+
+#: splash.html:109
+msgid "Welcome To TrustNote"
+msgstr "Bem-vindo À TrustNote"
+
+#: recoveryFromSeed.js:276
+msgid "When scanning an error occurred, please try again later."
+msgstr "Um erro ocorreu ao escanear, por favor, tente novamente mais tarde"
+
+#: disclaimer.html:59
+msgid "While the software has undergone beta testing and continues to be improved by feedback from the open-source user and developer community, we cannot guarantee that there will be no bugs in the software."
+msgstr "Embora o software tenha passado por testes beta e continue sendo aprimorado pelo feedback da comunidade de usuários e desenvolvedores de código aberto, não podemos garantir que não haja bugs nesse."
+
+#: modals/multi-payment.html:35
+#: modals/offer-contract.html:103
+#: modals/vote.html:28
+msgid "Who signs:"
+msgstr "Quem assina:"
+
+#: preferencesEditWitness.html:13
+msgid "Witness address"
+msgstr "Endereço da testemunha"
+
+#: backup.html:38
+msgid "Write it down and keep it somewhere safe."
+msgstr "Escreva e mantenha-o em um local seguro"
+
+#: profileService.js:761
+msgid "Wrong password"
+msgstr "Senha incorreta"
+
+#: authConfirmation.html:18
+#: index.js:768
+#: modals/confirmation.html:12
+msgid "Yes"
+msgstr "Sim"
+
+#: disclaimer.html:60
+msgid "You acknowledge that your use of this software is at your own discretion and in compliance with all applicable laws."
+msgstr "Você reconhece que seu uso deste software é de sua própria responsabilidade e esta de acordo com todas as leis aplicáveis."
+
+#: airDrop.js:122
+#: airDrop.js:142
+msgid "You are naughty. Please send 1 at least"
+msgstr "Não esta adequado. Por favor, envie ao menos 1"
+
+#: disclaimer.html:61
+msgid "You are responsible for safekeeping your passwords, private key pairs, PINs and any other codes you use to access the software."
+msgstr "Você é responsável por proteger suas senhas, pares de chaves privadas, PINs e quaisquer outros códigos usados. para acessar o software."
+
+#: airDropReceive.js:105
+#: airDropReceive.js:132
+#: airDropReceive.js:167
+#: airDropReceive.js:332
+#: airDropReceive.js:92
+msgid "You are too late,"
+msgstr "Você chegou muito tarde,"
+
+#: disclaimer.html:67
+msgid "You assume any and all risks associated with the use of the software."
+msgstr "Você assume todos e quaisquer riscos associados ao uso do software."
+
+#: includes/airDrop.html:181
+msgid "Your balance is not enough"
+msgstr "Seu saldo não é suficiente"
+
+#: includes/backupWaring.html:166
+msgid "Your Wallet Seed Phrase:"
+msgstr "Frase Seed de Sua Carteira"
+
+#: backup.html:37
+#: recoveryFromSeed.html:108
+msgid "Your Wallet Seed:"
+msgstr "Seed de Sua Carteira:"
+
+#: export.html:38
+msgid "Your export password"
+msgstr "Sua senha de exportação"
+
+#: includes/backupWaring.html:682
+msgid "Your mnemonic words are correct. To make your wallet safe, we highly recommend you delete mnemonic words from app."
+msgstr "Suas palavras mnemônicas estão corretas. Para tornar sua carteira segura, recomendamos que você exclua as palavras mnemônicas do aplicativo."
+
+#: includes/password.html:26
+msgid "Your password"
+msgstr "Sua senha"
+
+#: import.html:28
+msgid "Your wallet file:"
+msgstr "O arquivo de sua carteira:"
+
+#: includes/password.html:50
+msgid "Your wallet key will be encrypted. Password cannot be recovered. Be sure to write it down"
+msgstr "Sua chave da carteira será criptografada. A senha não pode ser recuperada. Certifique-se de anotá-la"
+
+#: splash.html:110
+msgid "Your wallet will be created on this device, keep it safe.  See your backup options in the Settings menu. Also in the Settings menu, you will find security options such as setting a password."
+msgstr "Sua carteira será criada neste dispositivo, mantenha-o seguro. Veja suas opções de backup no menu Configurações. Também no menu Configurações, você encontrará opções de segurança, como definir uma senha."
+
+#: airDrop.js:448
+#: sendAssets.js:277
+#: walletHome.js:976
+msgid "[internal] connection closed"
+msgstr "[interno] conexão encerrada"
+
+#: modals/bind.html:39
+#: modals/offer-contract.html:36
+#: modals/offer-contract.html:44
+msgid "amount"
+msgstr "quantia"
+
+#: airDropReceive.js:77
+msgid "arrWitnesses error: try it later."
+msgstr "erro arrWitnesses: tente novamente mais tarde."
+
+#: sendAssets.js:288
+#: walletHome.js:987
+msgid "authentifier verification failed"
+msgstr "verificação de autenticidade falhou"
+
+#: modals/offer-contract.html:69
+msgid "can unlock the contract"
+msgstr "pode desbloquear o contrato"
+
+#: modals/offer-contract.html:98
+msgid "can unlock the contract after it expires in"
+msgstr "pode desbloquear o contrato depois dele expirar em"
+
+#: copayers.html:61
+msgid "cancel wallet creation"
+msgstr "cancelar criação de carteira"
+
+#: editCorrespondentDevice.html:63
+msgid "clear chat history"
+msgstr "limpar histórico de conversa"
+
+#: modals/offer-contract.html:100
+msgid "days"
+msgstr "dias"
+
+#: modals/bind.html:79
+msgid "either way"
+msgstr "qualquer modo"
+
+#: modals/bind.html:71
+msgid "explicitly"
+msgstr "explicitamente"
+
+#: modals/bind.html:89
+#: modals/offer-contract.html:61
+msgid "hours"
+msgstr "horas"
+
+#: loginControl.js:118
+#: sendAssets.js:331
+#: sendAssets.js:50
+msgid "httpErr"
+msgstr "httpErr"
+
+#: modals/offer-contract.html:70
+msgid "if an event is posted by an oracle"
+msgstr "se um evento for postado por um oráculo"
+
+#: modals/bind.html:75
+msgid "in merkle tree"
+msgstr "na árvore de merkle"
+
+#: walletHome.html:270
+msgid "in ordinary wallets"
+msgstr "em carteiras comuns"
+
+#: walletHome.html:262
+msgid "in smart wallets"
+msgstr "em carteiras inteligentes"
+
+#: includes/available-balance.html:14
+msgid "locked by pending payments"
+msgstr "bloqueado por pagamentos pendentes"
+
+#: modals/howToSign.html:152
+msgid "note:one of phone connected network as <b>hot wallet</b> to watch <b>cold wallet</b>,the other one keep offline for Authorized signature."
+msgstr "observação:uma das redes conectadas por telefone como <b>carteira quente </b>para acompanhar a <b>carteira fria </b> e a outra manter-se offline para assinatura Autorizada."
+
+#: modals/bind.html:62
+#: modals/offer-contract.html:80
+msgid "on feed name"
+msgstr "nome no feed"
+
+#: airDrop.js:450
+#: sendAssets.js:279
+#: walletHome.js:978
+msgid "one of the cosigners refused to sign"
+msgstr "um dos fiadores se recusou a assinar"
+
+#: includes/airDrop.html:208
+#: walletHome.html:628
+#: walletHome.html:643
+msgid "optional"
+msgstr "opcional"
+
+#: modals/offer-contract.html:91
+msgid "or"
+msgstr "ou"
+
+#: modals/offer-contract.html:43
+msgid "peer pays"
+msgstr "pagamentos para pessoas"
+
+#: synchronization.js:166
+msgid "please try again later."
+msgstr "por favor, tente novamente mais tarde"
+
+#: modals/bind.html:67
+msgid "posted"
+msgstr "postado"
+
+#: modals/tx-details.html:179
+msgid "re-send private payloads"
+msgstr "reenviar ativos privados"
+
+#: modals/tx-details.html:186
+msgid "re-send private payloads to cosigners"
+msgstr "reenviar arquivos recebidos para consignadores"
+
+#: airDrop.js:248
+#: airDrop.js:427
+#: walletHome.js:744
+#: walletHome.js:750
+#: walletHome.js:852
+#: walletHome.js:959
+msgid "sending"
+msgstr "enviando"
+
+#: airDropReceive.js:106
+#: airDropReceive.js:133
+#: airDropReceive.js:168
+#: airDropReceive.js:333
+#: airDropReceive.js:93
+msgid "the T code has been claimed by other people"
+msgstr "o código T tem sido reivindicado por outras pessoas"
+
+#: modals/howToSign.html:406
+msgid "tips:"
+msgstr "dicas"
+
+#: modals/approveNewWitnesses.html:17
+#: modals/offer-contract.html:51
+msgid "to"
+msgstr "para"
+
+#: includes/airDrop.html:209
+#: walletHome.html:629
+#: walletHome.html:644
+msgid "too long!"
+msgstr "muito longo!"
+
+#: recoveryFromSeed.js:351
+#: recoveryFromSeed.js:380
+#: recoveryFromSeeddir.js:324
+#: recoveryFromSeeddir.js:348
+#: recoveryFromSeeddir.js:478
+#: recoveryFromSeeddir.js:503
+msgid "wallets recovered, please restart the application to finish."
+msgstr "carteiras recuperadas, por favor, reinicie a aplicação para finalizar"
+
+#: modals/offer-contract.html:83
+msgid "with expected value"
+msgstr "com o valor esperado"
+
+#: modals/bind.html:65
+msgid "with expected value of"
+msgstr "com o valor esperado de"
+
+#: modals/address-definition.html:18
+msgid "{{address}} can be spent if:"
+msgstr "{{address}} pode ser gasto se:"
+
+#: walletHome.js:1511
+msgid "{{fee}} will be deducted for bitcoin networking fees"
+msgstr "{{fee}} será deduzido para taxas de rede do bitcoin"
+
+#: modals/multi-payment.html:28
+msgid "{{hrd.destinationAddress}} can be spent if:"
+msgstr "{{hrd.destinationAddress}} pode ser gasto se:"
+
+#: copayers.html:47
+#: includes/walletInfo.html:2
+msgid "{{index.m}}-of-{{index.n}}"
+msgstr "{{index.m}}-de-{{index.n}}"
+
+#: includes/alert.html:11
+msgid "{{index.showAlert.msg}}"
+msgstr "{{index.showAlert.msg}}"
+
+#: includes/toPay.html:72
+msgid "{{index.to_address()}}"
+msgstr "{{index.to_address()}}"
+
+#: includes/login.html:93
+msgid "{{loginC.error}}"
+msgstr "{{loginC.error}}"
+
+#: recoveryFromSeed.html:102
+#: synchronization.html:25
+msgid "{{recFromSeed.error}}"
+msgstr "{{recFromSeed.error}}"
+
+#: recoveryFromSeedAlert.html:11
+msgid "{{recFromSeed.showAlert.msg}}"
+msgstr "{{recFromSeed.showAlert.msg}}"
+
+#: includes/backupWaring.html:159
+msgid "{{recFromSeeddir.error}}"
+msgstr "{{recFromSeeddir.error}}"
+
+#: includes/recoveryAlert.html:11
+msgid "{{recFromSeeddir.showAlert.msg}}"
+msgstr "{{recFromSeeddir.showAlert.msg}}"
+
+#: includes/sendassets.html:263
+msgid "{{sendA.error}}"
+msgstr "{{sendA.error}}"
+
+#: preferencesRecords.html:168
+msgid "{{token.asset == 'base'? token.amount/1000000 : token.amount}} {{token.asset_name}} <span class=\"stime\">{{token.creation_date}}</span>"
+msgstr "{{token.asset == 'base'? token.amount/1000000 : token.amount}} {{token.asset_name}} <span class=\"stime\">{{token.creation_date}}</span>"
